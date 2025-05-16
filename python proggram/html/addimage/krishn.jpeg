@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Me
+        </title>
+        <h1>Hanuman & Shiv Devotee</h1>
+    </head>
+    <div>
+    <body>
+        <table>
+            <tr>
+                <th>Hanuman</th>
+                <div>
+                <th>Shiv</th>
+            </tr>
+            <td>most powerful </td>
+            <br>
+        <td>he is the universe</td>
+        </br>
+        </table>
+        <img src="krishn.jpeg" width="500px" length="250px">
+</body>
+</html>
